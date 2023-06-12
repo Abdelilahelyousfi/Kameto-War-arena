@@ -50,7 +50,19 @@ body {
         }
         
         /* main */
-      
+        .button_2 {
+          display: block;
+          margin: auto;
+          background-color: #02C8FF;
+          color: white;
+          border: none;
+          border-radius: 0px;
+          padding: 10px 20px;
+          font-weight: bold;
+          cursor: pointer;
+          margin-bottom: 100px;
+  
+          }
         iframe {
         display: block;
         margin: 0 auto;
